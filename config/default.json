@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "jwtSecret": "hahaha classic",
+  "mongoURL": "mongodb+srv://mongoUser:mongoPassword@cluster0.pqhw5.azure.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
